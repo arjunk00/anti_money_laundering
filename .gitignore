@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+env/
+jars/
+mydata.csv/
+LI-Small_Trans.csv
+HI-Small_Trans.csv
