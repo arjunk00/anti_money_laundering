@@ -4,11 +4,11 @@ Dataset from this link ->  https://www.kaggle.com/datasets/ealtman2019/ibm-trans
 
 The dataset was loaded into MongoDB server for easy access. Other details are in the jupyter notebook.
 
-##Prerequesites:
+## Prerequesites:
 1. Working install of MongoDB.
 2. Working install of Apache Spark.
 
-##Steps to run the jupyter file:
+## Steps to run the jupyter file:
 
 1. Start the mongo db server and load the dataset into it from the csv files.
 2. Clone this repo.
